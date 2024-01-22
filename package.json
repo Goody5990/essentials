@@ -5,7 +5,7 @@
   "main": "index.js",
   "keywords": [ "plugin", "BDSX" ],
   "author": "Goody5990",
-  "license": "MIT",
+  "license": "BSD",
   "bdsxPlugin": true,
   "devDependencies": {
     "bdsx": "file:../bdsx"
