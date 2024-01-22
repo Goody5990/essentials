@@ -1,0 +1,30 @@
+{
+    "§4BruhNation": {
+        "members": [
+            "Goody5990",
+            "Harming68"
+        ],
+        "home": {
+            "x": 0.5359323024749756,
+            "y": 10.620010375976562,
+            "z": 0.498831570148468,
+            "dimensionId": 1
+        },
+        "allyTeams":[
+            "cats"
+        ],
+        "leader": "Goody5990"
+    },
+    "cats": {
+        "members": [
+            "pizzacola23"
+        ],
+        "home": {
+            "x": 0,
+            "y": 63,
+            "z": 0,
+            "dimensionId": 0
+        },
+        "leader": "pizzacola23"
+    }
+}

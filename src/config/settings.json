@@ -1,0 +1,6 @@
+{
+    "timeout": 5,
+    "home_limit": 3,
+    "maxAlliesPerTeam": 1,
+    "maxTeamMembers": 4
+}

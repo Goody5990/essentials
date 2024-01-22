@@ -1,0 +1,13 @@
+{
+  "name": "@bdsx/essentials",
+  "version": "1.0.5",
+  "description": "Server Essentials Plugin by Goody5990 for bdsx",
+  "main": "index.js",
+  "keywords": [ "plugin", "BDSX" ],
+  "author": "Goody5990",
+  "license": "MIT",
+  "bdsxPlugin": true,
+  "devDependencies": {
+    "bdsx": "file:../bdsx"
+  }
+}
