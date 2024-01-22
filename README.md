@@ -1,5 +1,5 @@
 
-# Homes by Goody5990
+# BDSX Essentials plugin by Goody5990
 Homes plugin lets you use all the commands below. Also lets you have a prefix for your team name in chat!
 
 # Home Commands
